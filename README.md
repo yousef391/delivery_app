@@ -4,6 +4,15 @@ A modern, fast, and scalable delivery application built with Flutter, designed t
 
 ---
 
+## 📱 Try it Out
+
+- **Download APK:** [Google Drive Link](https://drive.google.com/file/d/1lIrbZRoKdS7AXf5Ue8DZtmmD5dS6hpHj/view?usp=drive_link)
+- **Test Account:**
+  - **Email:** `test@example.com` *(Update if needed)*
+  - **Password:** `123456`
+
+---
+
 ## ✨ Features
 
 - **Onboarding:** Smooth and informative onboarding experience for new users.
